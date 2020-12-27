@@ -2,9 +2,10 @@
   "name": "flatstudy",
   "version": "1.0.0",
   "description": "flatgarden project",
-  "main": "start.js",
+  "main": "index.js",
   "repository": "https://github.com/ilsun99/flat-study",
   "author": "n_snow",
   "license": "flatgarden",
-  "private": null
+  "private": "false"
 }
+
